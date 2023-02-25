@@ -1,0 +1,11 @@
+name: deinplugin
+version: 1.0
+main: deinplugin.deinplugin.deinplugin
+api-version: 1.19
+prefix: deinplugin
+authors: [ ChocolateBox ]
+description: deinplugin
+commands:
+  reloadplugin:
+    description: 특정 플러그인만 리로드 시킨다.
+    aliases: rp

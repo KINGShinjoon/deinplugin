@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="deinplugin">
+    <output-path>$PROJECT_DIR$/out/artifacts/deinplugin</output-path>
+    <root id="archive" name="deinplugin.jar">
+      <element id="module-output" name="deinplugin" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,2 @@
+# deinplugin
+ MinecraftPlugin
